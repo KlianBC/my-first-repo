@@ -1,1 +1,2 @@
-# my-first-repo
+Hobbies: Fishing, Video games
+Programming Languages: C, C++, Java, Python
